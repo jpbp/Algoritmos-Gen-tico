@@ -1,1 +1,0 @@
-# Algoritmos-Gen-tico
